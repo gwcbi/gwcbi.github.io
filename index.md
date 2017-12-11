@@ -6,4 +6,4 @@
 
 ### Projects
 
-[HPC Guide](HPC/index.md)
+[HPC Guide](./HPC/)
